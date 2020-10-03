@@ -1,0 +1,36 @@
+h1 {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18pt;
+}
+
+a {
+    color: red;
+}
+
+.container {
+    background-color: lightyellow;
+    height: 500px;
+}
+
+.bio {
+    background-color: lightyellow;
+    float: left;
+    width: 50%;
+    height: 400px;
+    padding-left: 15px;
+}
+
+.contact {
+    background-color: lightyellow;
+    float: right;
+    width: 40%;
+    height: 400px;
+}
+
+.img {
+    float: left;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
